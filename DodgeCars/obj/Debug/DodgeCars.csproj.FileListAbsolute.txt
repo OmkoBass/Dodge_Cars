@@ -1,0 +1,10 @@
+D:\Code\C#\DodgeCars\DodgeCars\bin\Debug\DodgeCars.exe.config
+D:\Code\C#\DodgeCars\DodgeCars\bin\Debug\DodgeCars.exe
+D:\Code\C#\DodgeCars\DodgeCars\bin\Debug\DodgeCars.pdb
+D:\Code\C#\DodgeCars\DodgeCars\obj\Debug\DodgeCars.csprojAssemblyReference.cache
+D:\Code\C#\DodgeCars\DodgeCars\obj\Debug\DodgeCars.Form1.resources
+D:\Code\C#\DodgeCars\DodgeCars\obj\Debug\DodgeCars.Properties.Resources.resources
+D:\Code\C#\DodgeCars\DodgeCars\obj\Debug\DodgeCars.csproj.GenerateResource.cache
+D:\Code\C#\DodgeCars\DodgeCars\obj\Debug\DodgeCars.csproj.CoreCompileInputs.cache
+D:\Code\C#\DodgeCars\DodgeCars\obj\Debug\DodgeCars.exe
+D:\Code\C#\DodgeCars\DodgeCars\obj\Debug\DodgeCars.pdb
